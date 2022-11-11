@@ -18,7 +18,7 @@ function selected_gallery_index(){
 }
 
 function extract_image_from_gallery(gallery){
-    if(gallery.length == 1){
+    if(gallery.length == 1){;
         return gallery[0]
     }
 
